@@ -2,3 +2,8 @@
 
 
 ## Criação de API utilizando Django
+
+
+# Instalar dependências do projeto:
+
+```pip instal -r requirements.txt```
